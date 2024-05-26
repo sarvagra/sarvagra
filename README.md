@@ -1,1 +1,1 @@
-<img src="GIFMaker_me.gif" align="centre" height="250" width="800" >
+<img src="GIFMaker_me.gif" align="centre" height="250" width="1000" >
