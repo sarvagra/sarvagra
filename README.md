@@ -36,15 +36,18 @@ Eager to collaborate on innovative projects and connect with fellow tech enthusi
 ---
 
 
-# MyBadges
-![Typing Animation](./Images/HackerRank.svg)
+# My Badges
+[![Typing Animation](https://github.com/sarvagra/sarvagra/blob/main/Images/HackerRank.svg)](https://www.hackerrank.com/profile/sarvagra)
 
 
-<img src="./Images/SqlOneStar.jpg" width=150>
+<a href="https://www.hackerrank.com/profile/sarvagra" target="_blank">
+    <img src="./Images/SqlOneStar.jpg" width="150">
+</a>
+
 
 ---
 
-### Connect with me: [Sarvagra](https://linktr.ee/shubhansu)
+### Connect with me: [Sarvagra](https://linktr.ee/sarvagra)
 
 [![ln](./Images/linkedin-light.svg)](https://www.linkedin.com/in/sarvagra)
 [![ln](./Images/linkedin-dark.svg)](https://www.linkedin.com/in/sarvagra)
