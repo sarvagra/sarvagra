@@ -1,0 +1,48 @@
+<svg width="400" height="60" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes typing {
+      0% { visibility: hidden; }
+      10% { visibility: visible; }
+      90% { visibility: visible; }
+      100% { visibility: hidden; }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    text {
+      font-family: 'Arial', sans-serif;
+      font-size: 32px;
+      font-weight: bold;
+      fill: white;
+      white-space: nowrap;
+    }
+    #char1 { animation: typing 1.5s steps(1) 0.5s infinite; }
+    #char2 { animation: typing 1.5s steps(1) 0.6s infinite; }
+    #char3 { animation: typing 1.5s steps(1) 0.7s infinite; }
+    #char4 { animation: typing 1.5s steps(1) 0.8s infinite; }
+    #char5 { animation: typing 1.5s steps(1) 0.9s infinite; }
+    #char6 { animation: typing 1.5s steps(1) 1.0s infinite; }
+    #char7 { animation: typing 1.5s steps(1) 1.1s infinite; }
+    #char8 { animation: typing 1.5s steps(1) 1.2s infinite; }
+    #char9 { animation: typing 1.5s steps(1) 1.3s infinite; }
+    #char10 { animation: typing 1.5s steps(1) 1.4s infinite; }
+    #rectBox {
+      opacity: 0;
+      animation: fadeIn 1.5s ease-in-out 1.5s infinite;
+    }
+  </style>
+  <text x="10" y="40" letter-spacing="-3px">
+    <tspan id="char1" visibility="hidden">H</tspan>
+    <tspan id="char2" visibility="hidden">a</tspan>
+    <tspan id="char3" visibility="hidden">c</tspan>
+    <tspan id="char4" visibility="hidden">k</tspan>
+    <tspan id="char5" visibility="hidden">e</tspan>
+    <tspan id="char6" visibility="hidden">r</tspan>
+    <tspan id="char7" visibility="hidden">R</tspan>
+    <tspan id="char8" visibility="hidden">a</tspan>
+    <tspan id="char9" visibility="hidden">n</tspan>
+    <tspan id="char10" visibility="hidden">k</tspan>
+  </text>
+  <rect id="rectBox" x="225" y="15" width="20" height="30" fill="#2EC866"></rect>
+</svg>
