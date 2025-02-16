@@ -4,7 +4,7 @@
 
 ## About
 
-🎓 Second-year Data Science enthusiast merging theoretical knowledge with hands-on implementation in AI and Web Technologies.
+👋 Hi there! I'm a Data Science enthusiast merging theoretical knowledge with hands-on implementation in AI and Web Technologies.
 
 Technical Focus:
 Dedicated to mastering the intersection of Data Science, Machine Learning, and Deep Learning while building robust web solutions. Actively working on:
