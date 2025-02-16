@@ -2,4 +2,4 @@
 
 ![HackerRank Animation](https://github.com/sarvagra/Profile/blob/main/HackerRank.svg)
 
-<img src="SqlOneStar.jpg" >
+<img src="SqlOneStar.jpg" width=150 >
