@@ -2,28 +2,35 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Data+Scientist;)](https://www.linkedin.com/in/sarvagra)
 
-## About
+## 👋 Hi, I'm Sarvagra Singh
 
-👋 Hi there! I'm a Data Science enthusiast merging theoretical knowledge with hands-on implementation in AI and Web Technologies.
+I'm a Computer Science undergraduate at IIT Madras, passionate about building real-world AI and web solutions. I enjoy working on full-stack projects, solving Kaggle challenges, and exploring the latest in machine learning and large language models.
 
-Technical Focus:
-Dedicated to mastering the intersection of Data Science, Machine Learning, and Deep Learning while building robust web solutions. Actively working on:
-- AI/ML model development and deployment
-- Responsive web applications
-- Process automation solutions
-- Deep Learning implementations
+### 👨‍💻 What I Do
 
-Current Journey:
-Exploring cutting-edge AI technologies and their real-world applications through hands-on projects. Passionate about translating complex data into actionable insights and developing innovative solutions that drive impact.
+- 🧠 **Machine Learning & AI:**  
+  Hands-on experience with data preprocessing, model training, and deployment using Python, Scikit-learn, and XGBoost. Currently working on projects using LLMs for educational tools.
 
-Skills & Expertise:
-- Machine Learning & Deep Learning
-- Python Programming
-- Web Design & Development
-- Data Analysis & Visualization
-- Automation Frameworks
+- 🌐 **Web Development:**  
+  Build scalable APIs and interactive web apps with FastAPI, React, Node.js, and real-time features using WebSockets.
 
-Eager to collaborate on innovative projects and connect with fellow tech enthusiasts. Always open to learning opportunities and discussions about AI, ML, and emerging technologies.
+- ☁️ **Cloud & Deployment:**  
+  Host and manage projects using Google Cloud, Render, and GitHub. I focus on clean API design and production-ready deployments.
+
+### 🚀 Projects I’m Proud Of
+
+- 🔗 [**TDS Virtual TA**](#) – An AI-powered assistant for answering Data Science course queries using LLMs and FastAPI, hosted on Google Cloud.  
+- 🔗 [**Synced**](#) – A real-time YouTube group streaming web app (in progress) with room-based playback sync and dynamic user interaction.  
+- 🔗 [**Spaceship Titanic**](#) – Kaggle ML project with feature engineering and Random Forest/XGBoost modeling, leaderboard score: 80.8%.  
+- 🔗 [**House Price Prediction API**](#) – Fully deployed prediction service using FastAPI and XGBoost, available via Swagger and cURL.
+
+### 🛠 Tech Stack
+
+**Languages:** Python, Java, SQL, HTML/CSS, JavaScript  
+**Frameworks:** FastAPI, Flask, React, Node.js  
+**Tools:** VS Code, GitHub, Google Cloud, Render, Eclipse
+
+Thanks for visiting my profile! Always up for collaboration and learning.
 
 
 ---
