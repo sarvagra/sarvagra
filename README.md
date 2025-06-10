@@ -26,7 +26,7 @@ I'm a Computer Science undergraduate at IIT Madras, passionate about building re
 
 ### 🛠 Tech Stack
 
-**Languages:** Python, Java, SQL, HTML/CSS, JavaScript  
+**Languages:** Python, Java, SQL, HTML/CSS 
 **Frameworks:** FastAPI, Flask, React, Node.js  
 **Tools:** VS Code, GitHub, Google Cloud, Render, Eclipse
 
