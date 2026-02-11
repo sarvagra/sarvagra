@@ -1,6 +1,7 @@
 # Hello, I'm [Sarvagra!](https://www.linkedin.com/in/sarvagra)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10&width=435&lines=I'm+an+ML-Engineer;I'm+a+Data-Scientist;I'm+a+Deep+learning+%26+Automation+Specialist)](https://www.linkedin.com/in/sarvagra)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=I'm+an+ML-Engineer;I'm+a+Data-Scientist;I'm+into+Deep+learning+%26+Automation)](https://www.linkedin.com/in/sarvagra)
+
 
 
 ## 👋 About Me
